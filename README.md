@@ -20,7 +20,7 @@
 - Learn about **web development** (HTML, CSS, JavaScript)  
 - Publish my first personal projects here on GitHub  
 
---
+---
 
 ## 📫 How to reach me
 
