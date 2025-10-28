@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there! I'm Javier Cobos Muñoz
 
-<!--
-**JaviC-M/JaviC-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Multiplatform Application Development (DAM)** student  
+💻 Learning how to code and build my first projects  
+🚀 I enjoy discovering new technologies and improving a little every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+
+- Programming with **Java** and **Python**
+- Working with **MySQL** databases
+- Version control using **Git** and **GitHub**
+
+---
+
+## 🧠 Short-term goals
+
+- Create new applications and programs with the knowledge I’m gaining 💡  
+- Learn about **web development** (HTML, CSS, JavaScript)  
+- Publish my first personal projects here on GitHub  
+
+--
+
+## 📫 How to reach me
+
+📧 **pikajavi11@gmail.com**
+
+---
+
+⭐ *Thanks for visiting my profile! I'm just getting started, but I'm learning something new every day.* 🚀
