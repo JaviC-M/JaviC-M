@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Javier Cobos Muñoz
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhpcWFhZ2FseG42aWlxanJ3bzA0bzI5OTh0MG1ua2txbWVodnY1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehgM1JRwNXAtaYDRzi/giphy.gif" alt="anime aesthetic top" width="720"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RmZjAyZDliaHJxOThvemJib28ydzlyc2g1MHVjMDk5NjVldjJsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif" alt="anime aesthetic top" width="720"/>
 </p>
 
 🎓 I'm a **Multiplatform Application Development (DAM)** student  
